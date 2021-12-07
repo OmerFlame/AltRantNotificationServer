@@ -1,7 +1,9 @@
 # AltRantNotificationServer
 A notification server for the AltRant project.
 # How to Use
-Clone this repository: `git clone https://github.com/OmerFlame/AltRantNotificationServer.git`
+Clone this repository: 
+
+`git clone https://github.com/OmerFlame/AltRantNotificationServer.git`
 
 Install the dependencies:
 
